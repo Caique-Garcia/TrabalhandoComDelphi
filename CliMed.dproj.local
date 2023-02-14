@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/01 18:55:38.000.650,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 18:56:07.000.138,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitPrincipal.dfm=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/01 18:56:07.000.138,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitPrincipal.pas=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/01 18:56:23.000.054,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\CliMed.dproj=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/01 21:49:22.000.206,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit2.pas</Transaction>
+    <Transaction>2023/02/01 21:50:14.000.776,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitCadastroPaciente.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit2.pas</Transaction>
+    <Transaction>2023/02/01 21:50:14.000.776,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitCadastroPaciente.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit2.dfm</Transaction>
+    <Transaction>2023/02/01 21:50:56.000.605,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit3.pas</Transaction>
+    <Transaction>2023/02/01 21:51:23.000.576,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitAgendamento.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit3.dfm</Transaction>
+    <Transaction>2023/02/01 21:51:23.000.576,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitAgendamento.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit3.pas</Transaction>
+    <Transaction>2023/02/02 07:50:11.000.354,=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit1.pas</Transaction>
+    <Transaction>2023/02/02 08:05:38.000.277,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitBD.dfm=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit1.dfm</Transaction>
+    <Transaction>2023/02/02 08:05:38.000.277,C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\unitBD.pas=C:\Users\Usuario\OneDrive\Desktop\ESTUDOS\Delphi\Projeto Clínica Médica\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
